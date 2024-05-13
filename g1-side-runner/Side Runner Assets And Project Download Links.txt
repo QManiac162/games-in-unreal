@@ -1,0 +1,10 @@
+The server we're using is allowing us to have a file of maximum 1.2GB
+so we have to split files in parts and instead of having multiple buttons
+on the blog post for every file we've put the links in this text doc so 
+you can download the files one by one
+
+Part 1
+https://cdn.fs.teachablecdn.com/ZAev6N5ASmEz0f4vfciE
+
+Part 2
+https://cdn.fs.teachablecdn.com/D4RcRUXnQhKIpTRwim06
